@@ -1,0 +1,36 @@
+.test {
+    color: rgb(65, 34, 206);
+}
+.test:hover {
+    background-color: yellow
+
+}
+
+header  {
+    DISPLAY: FLEX;
+    color: blue;
+    font-size: x-large;
+}
+
+nav ul { 
+    display: flex;
+}
+nav ul li {
+    margin: 10px;
+} 
+section {
+    font-size: larger;
+}
+
+p {font-size: larger;
+}
+
+body { background-color: rgb(211, 187, 235);
+}
+
+section image {image size: 25px; 
+}
+
+.imgsize { 
+    image size: height: 25px width: 25px ;
+}
